@@ -1,0 +1,13 @@
+# Facility KST prefilter
+# Only hexes matching one of the entries below are loaded. all other hexes are dimmed and crossed out.
+# Entries may be partial hex names (case, spaces and punctuation are ignored: "allod" matches "Allod's Bight").
+# Delimiters: new line, comma, semicolon, pipe or tab. Lines STARTING with # are ignored.
+# Remove all entries to load every hex. Users can also tick "disable prefilter" in the app.
+#
+# no build / release neccessary when changing this file. If commited to main branch:
+# this file will be loaded from the repo automaticly by the app on start / refresh.
+
+
+Callum, Speaking; Bas | howl
+Clanshead
+Morgen's Crossing
